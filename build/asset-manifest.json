@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carros/build/static/css/main.67262a7e.css",
+    "main.js": "/carros/build/static/js/main.9f1ba20b.js",
+    "static/media/drive.png": "/carros/build/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/carros/build/index.html",
+    "main.67262a7e.css.map": "/carros/build/static/css/main.67262a7e.css.map",
+    "main.9f1ba20b.js.map": "/carros/build/static/js/main.9f1ba20b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67262a7e.css",
+    "static/js/main.9f1ba20b.js"
+  ]
+}
