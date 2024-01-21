@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={styles.footer}>
     <div className={styles.container}>
         <img src={Logo} alt="" />
-        <button>Busca un Carro</button>
+        <button>Buscar un Carro</button>
     </div>
 </div>
   )

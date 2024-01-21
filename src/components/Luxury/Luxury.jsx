@@ -8,7 +8,7 @@ const Luxury = () => {
 <h1>Luxury Selection</h1>
 <div className={styles.text_bg}>
 <p>
-  <span>Select from the top luxury vehicles to roll in style</span>
+  <span>Selecciona entre los mejores vehículos de lujo para rodar con estilo</span>
 </p>
 </div>
 
