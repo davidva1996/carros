@@ -6,6 +6,8 @@
   
     display: flex;
   }
+
+  
   
   form {
     display: flex;
@@ -128,7 +130,7 @@
     }
   
     .hero .btn:hover {
-      background-color: #4733b7;
+      background-color: #e23528;
       transition: background-color 1s;
     }
   

@@ -50,6 +50,13 @@
     height: 220px;
     object-fit: cover;
   }
+
+  .card:hover {
+    transform: scale(1.05); /* Aumenta el tamaño de la imagen en un 5% */
+    transition: transform 0.3s ease-in-out; /* Transición suave */
+    cursor: pointer;
+  }
+  
   
   .card p {
     text-align: center;

@@ -6,10 +6,15 @@
     align-items: center;
     padding: 1rem;
   }
+
   
   .menu {
     display: flex;
     align-items: center;
+  }
+  .menu li:hover {
+    background-color: #f2f2f2; /* Un gris claro bonito */
+    cursor: pointer; /* Cambia el cursor a una mano para indicar que es clickeable */
   }
   
   .menu li {
@@ -19,6 +24,11 @@
   .navbar a {
     color: #333;
     font-size: 0.8rem;
+  }
+
+  .navbar img {
+
+    cursor: pointer;
   }
   
   .mobile_btn {
@@ -33,6 +43,7 @@
       cursor: pointer;
       z-index: 10;
     }
+    
   
     .menu {
       display: flex;

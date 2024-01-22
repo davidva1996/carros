@@ -15,10 +15,10 @@ const Find = () => {
   return (
     <div className={styles.find}>
     <div className={styles.heading}>
-      <h1>Find your drive</h1>
+      <h1>Encuentra tu coche</h1>
       <div className={styles.text_bg}>
         <p>
-          <span>Explore the world's largest car sharing marketplace</span>
+          <span>Explora el mercado de coches compartidos más grande del mundo</span>
         </p>
       </div>
     </div>

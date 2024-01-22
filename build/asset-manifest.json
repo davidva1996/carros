@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/carros/build/static/css/main.a9277e6e.css",
-    "main.js": "/carros/build/static/js/main.0d25669f.js",
+    "main.css": "/carros/build/static/css/main.ea3ed5cb.css",
+    "main.js": "/carros/build/static/js/main.2b88a368.js",
     "static/media/drive.png": "/carros/build/static/media/drive.6bd20e182296ea68fb9b.png",
     "index.html": "/carros/build/index.html",
-    "main.a9277e6e.css.map": "/carros/build/static/css/main.a9277e6e.css.map",
-    "main.0d25669f.js.map": "/carros/build/static/js/main.0d25669f.js.map"
+    "main.ea3ed5cb.css.map": "/carros/build/static/css/main.ea3ed5cb.css.map",
+    "main.2b88a368.js.map": "/carros/build/static/js/main.2b88a368.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9277e6e.css",
-    "static/js/main.0d25669f.js"
+    "static/css/main.ea3ed5cb.css",
+    "static/js/main.2b88a368.js"
   ]
 }

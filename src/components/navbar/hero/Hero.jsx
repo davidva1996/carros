@@ -6,7 +6,7 @@ const Hero = () => {
     <div className={styles.hero}>
       <form>
         <div className={styles.text}>
-          <label>Where</label>
+          <label>Localizacion</label>
           <input
             className={styles.text_input}
             type='text'
@@ -15,16 +15,16 @@ const Hero = () => {
         </div>
         <div className={styles.from}>
           <span className={styles.border}></span>
-          <label>From</label>
+          <label>Desde</label>
           <input type="date" />
         </div>
         <div className={styles.until}>
           <span className={styles.border}></span>
-          <label>Until</label>
+          <label>Hasta</label>
           <input type='date' />
         </div>
         <div className={styles.search_btn}>
-          <button className={styles.btn}>Search for cars</button>
+          <button className={styles.btn}>Busca un auto!</button>
           <AiOutlineSearch size={25} className={styles.icon} />
         </div>
       </form>

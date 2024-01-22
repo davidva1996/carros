@@ -18,7 +18,7 @@ const Navbar = () => {
       <nav>
         <ul className={nav ? [styles.menu, styles.active].join(' ') : [styles.menu]} >
           <li>
-            <a href='/#'>Learn More</a>
+            <a href='/#'>Aprende más</a>
           </li>
           <li>
             <a href='/#'>Log in</a>

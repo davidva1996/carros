@@ -9,9 +9,9 @@ const Driver = () => {
             <img src={Drive} alt="/" />
         </div>
         <div>
-            <h2>Find the perfect car <span>to try before you buy</span></h2>
-            <p>Make sure your future wheels work well with your lifestyle by taking your time in the driver's seat.</p>
-            <button>Browse Cars</button>
+            <h2>Encuentra el coche perfecto y <span>pruebalo antes de comprarlo!</span></h2>
+            <p>Asegúrese de que sus futuras ruedas se adapten bien a su estilo de vida tomándose su tiempo en el asiento del conductor.</p>
+            <button>Explorar autos</button>
         </div>
     </div>
   )

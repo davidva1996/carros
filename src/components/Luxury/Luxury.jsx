@@ -5,7 +5,7 @@ const Luxury = () => {
   return (
     <div className={styles.luxury}>
     <div className={styles.heading}>
-<h1>Luxury Selection</h1>
+<h1>Selección de lujo</h1>
 <div className={styles.text_bg}>
 <p>
   <span>Selecciona entre los mejores vehículos de lujo para rodar con estilo</span>

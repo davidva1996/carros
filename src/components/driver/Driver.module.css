@@ -36,8 +36,9 @@
 }
 
 .driver button:hover {
-    background-color: #4733b7;
+    background-color: #e23528;
     transition: background-color 1s;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 920px) {
