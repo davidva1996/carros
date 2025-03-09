@@ -11,6 +11,21 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 
 
+// Imagenes
+
+import audi from './images-cards/audi.avif';
+import bmw from './images-cards/bmw.avif';
+import chevrolet from './images-cards/chevrolet.avif';
+import mercedes from './images-cards/mercedes-benz.avif';
+import nissan from './images-cards/nissan.avif';
+import toyota from './images-cards/toyota.avif';
+import jeep from './images-cards/jeep.avif';
+import ford from './images-cards/ford.avif';
+import tesla from './images-cards/tesla.avif';
+import porsche from './images-cards/porsche.avif';
+
+
+
 const Find = () => {
   return (
     <div className={styles.find}>
@@ -53,62 +68,62 @@ const Find = () => {
       >
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1599912027806-cfec9f5944b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGF1ZGl8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
+            image={audi}
             make='Audi'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1555215695-3004980ad54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym13fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+            image={bmw}
             make='BMW'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hldnJvbGV0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+            image={chevrolet}
             make='Chevrolet'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVyY2VkZXMlMjBiZW56fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+            image={mercedes}
             make='Mercedes-Benz'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1609521263047-f8f205293f24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bmlzc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+            image={nissan}
             make='Nissan'
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1619682817481-e994891cd1f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHRveW90YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+            image={toyota}
             make='Toyota'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1588636142475-a62d56692870?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+            image={jeep}
             make='Jeep'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1604108415419-6d4bd73a1c2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
+            image={ford}
             make='Ford'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGVzbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
+            image={tesla}
             make='Tesla'
           />
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            image='https://images.unsplash.com/photo-1580274455191-1c62238fa333?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9yc2NoZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+            image={porsche}
             make='Porsche'
           />
         </SwiperSlide>

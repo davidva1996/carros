@@ -1,14 +1,29 @@
 {
   "files": {
-    "main.css": "/carros/build/static/css/main.ea3ed5cb.css",
-    "main.js": "/carros/build/static/js/main.2b88a368.js",
+    "main.css": "/carros/build/static/css/main.f3fdb38e.css",
+    "main.js": "/carros/build/static/js/main.403dea36.js",
     "static/media/drive.png": "/carros/build/static/media/drive.6bd20e182296ea68fb9b.png",
+    "static/media/maseratti.jpeg": "/carros/build/static/media/maseratti.5f2654455675d6366d4d.jpeg",
+    "static/media/banner-home.avif": "/carros/build/static/media/banner-home.ed33aa9707e9cd4fc7f3.avif",
+    "static/media/audi.avif": "/carros/build/static/media/audi.1a9c20ca5907ba987d04.avif",
+    "static/media/rolls-royce.webp": "/carros/build/static/media/rolls-royce.75060d1984fdd8f02af3.webp",
+    "static/media/ford.avif": "/carros/build/static/media/ford.5d94dd87d806f57974a0.avif",
+    "static/media/toyota.avif": "/carros/build/static/media/toyota.2eb4a144fa4bc1618859.avif",
+    "static/media/chevrolet.avif": "/carros/build/static/media/chevrolet.07c923f435d752268865.avif",
+    "static/media/jeep.avif": "/carros/build/static/media/jeep.420ccd730f2d6951e32f.avif",
+    "static/media/mercedes-benz.avif": "/carros/build/static/media/mercedes-benz.da72a98b1c840ad8ebdb.avif",
+    "static/media/porsche.avif": "/carros/build/static/media/porsche.a2852b3c33cddbcb52cf.avif",
+    "static/media/range-rover.avif": "/carros/build/static/media/range-rover.bc944f782e502c437e21.avif",
+    "static/media/bmw.avif": "/carros/build/static/media/bmw.cf8e002ff5e297d6f20b.avif",
+    "static/media/nissan.avif": "/carros/build/static/media/nissan.e15a47c4f034b8d8346d.avif",
+    "static/media/porsche-2.avif": "/carros/build/static/media/porsche-2.a57392247e1183d5a50c.avif",
+    "static/media/tesla.avif": "/carros/build/static/media/tesla.8c85d03122d69ced1ce5.avif",
     "index.html": "/carros/build/index.html",
-    "main.ea3ed5cb.css.map": "/carros/build/static/css/main.ea3ed5cb.css.map",
-    "main.2b88a368.js.map": "/carros/build/static/js/main.2b88a368.js.map"
+    "main.f3fdb38e.css.map": "/carros/build/static/css/main.f3fdb38e.css.map",
+    "main.403dea36.js.map": "/carros/build/static/js/main.403dea36.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea3ed5cb.css",
-    "static/js/main.2b88a368.js"
+    "static/css/main.f3fdb38e.css",
+    "static/js/main.403dea36.js"
   ]
 }
